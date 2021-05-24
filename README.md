@@ -30,6 +30,7 @@ Open Source Library Project
 * [Vindiciae contra tyrannos | Восстание против тиранов (en, pdf)](http://www.yorku.ca/comninel/courses/3020pdf/vindiciae.pdf)
 * [Абрахам Кайпер - Антиреволюционные учения о государстве (en, book)]()
 * [De jure magistratum | О праве начальствующих (en, pdf)](http://www.onthewing.org/user/Beza%20-%20Rights%20of%20Magistrates.pdf)
+* [Oswald Chambers (en, wiki)](https://en.wikipedia.org/wiki/Oswald_Chambers)
 * [Reformed Church in Tver (ru, library)](https://www.reformtver.ru/)
 * [Reformed Church in Ukraine (ru, library)](https://www.reformed.org.ua/)
 
