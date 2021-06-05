@@ -27,12 +27,12 @@ Open Source Bookshelf
     * [De praedestinatione sanctorum (ru, pdf)](https://azbyka.ru/otechnik/books/download/8407-%D0%9E-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85.pdf)
 * [Vindiciae contra tyrannos | Восстание против тиранов (en, pdf)](http://www.yorku.ca/comninel/courses/3020pdf/vindiciae.pdf)
 * [De jure magistratum | О праве начальствующих (en, pdf)](http://www.onthewing.org/user/Beza%20-%20Rights%20of%20Magistrates.pdf)
-* [Henry Meeter - The Basic Ideas of Calvinism (ru, pdf)](http://www.presbiteryen.org/rus/6/%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%9D%D0%AB%D0%95_%D0%98%D0%94%D0%95%D0%98_%D0%9A%D0%90%D0%9B%D0%AC%D0%92%D0%98%D0%9D%D0%98%D0%97%D0%9C%D0%90.pdf)
+* [Henry Meeter - The Basic Ideas of Calvinism (ru, offline)](https://www.ozon.ru/context/detail/id/1509866/)
 * [Oswald Chambers (en, wiki)](https://en.wikipedia.org/wiki/Oswald_Chambers)
 * [Reformed Church in Tver (ru, library)](https://www.reformtver.ru/)
 * [Reformed Church in Ukraine (ru, library)](https://www.reformed.org.ua/)
 * [Abraham_Kuyper](https://en.wikipedia.org/wiki/Abraham_Kuyper#Bibliography)
-    * [Христианское мирровозрение (ru, web)](https://www.reformed.org.ua/2/140/Kuyper)
+    * [Христианское мирровозрение (ru, online)](https://www.reformed.org.ua/2/140/Kuyper)
 
 ## [Fiction (ru, index)](https://fantlab.ru)
 
