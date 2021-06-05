@@ -13,6 +13,8 @@ Open Source Bookshelf
     * [The Machinery Of Freedom (ru, pdf)](https://ancapchan.info/downloads/%D0%94%D1%8D%D0%B2%D0%B8%D0%B4%20%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%2C%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B.pdf)
     * [The Machinery Of Freedom (en, pdf)](https://ancapchan.info/downloads/Machinery%203rd%20Edn%20POD%2025.pdf)
 * [Ancapchan (ru, library)](https://ancapchan.info)
+* Серветитуты - обременения права собственности достающиеся вместе с ней  
+  Пример: право прохода, цестива
 
 ## [Reformed Church](https://en.wikipedia.org/wiki/Calvinism)
 
