@@ -6,8 +6,6 @@ Open Source Bookshelf
 
 * [Учебник теории категорий](https://github.com/George66/Textbook)
 
-## Programming (ru)
-
 ## [Austrian School](https://en.wikipedia.org/wiki/Austrian_School)
 
 * [Murray Rothbard (en, wiki)](https://en.wikipedia.org/wiki/Murray_Rothbard)
