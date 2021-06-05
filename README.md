@@ -1,6 +1,6 @@
-# Library
+# Bookshelf
 
-Open Source Library Project
+Open Source Bookshelf
 
 ## Math (ru)
 
@@ -22,17 +22,17 @@ Open Source Library Project
 * [Apostles' Creed (ru, wiki)](https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%B2%D0%B5%D1%80%D1%8B)
 * [Heidelberg Catechism (ru, doc)](https://www.reformed.org.ua/2/22/Caspar)
 * [Westminster Confession of Faith (ru, doc)](https://www.reformed.org.ua/2/108/)
+* [John Calvin (en, wiki)](https://en.wikipedia.org/wiki/John_Calvin)
+    * [Institutes of the Christian Religion (ru, doc)](https://www.reformed.org.ua/2-96-Index%20by%20Author#auCA)
 * [Aurelius Augustinus (ru, library)](https://azbyka.ru/otechnik/Avrelij_Avgustin/)
     * [De Civitate Dei (ru, pdf)](https://azbyka.ru/otechnik/books/download/8404-%D0%9E-%D0%B3%D1%80%D0%B0%D0%B4%D0%B5-%D0%91%D0%BE%D0%B6%D1%8C%D0%B5%D0%BC.pdf)
     * [De praedestinatione sanctorum (ru, pdf)](https://azbyka.ru/otechnik/books/download/8407-%D0%9E-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85.pdf)
-* [John Calvin (en, wiki)](https://en.wikipedia.org/wiki/John_Calvin)
-    * [Institutes of the Christian Religion (ru, doc)](https://www.reformed.org.ua/2-96-Index%20by%20Author#auCA)
 * [Vindiciae contra tyrannos | Восстание против тиранов (en, pdf)](http://www.yorku.ca/comninel/courses/3020pdf/vindiciae.pdf)
-* [Абрахам Кайпер - Антиреволюционные учения о государстве (en, book)]()
 * [De jure magistratum | О праве начальствующих (en, pdf)](http://www.onthewing.org/user/Beza%20-%20Rights%20of%20Magistrates.pdf)
 * [Oswald Chambers (en, wiki)](https://en.wikipedia.org/wiki/Oswald_Chambers)
 * [Reformed Church in Tver (ru, library)](https://www.reformtver.ru/)
 * [Reformed Church in Ukraine (ru, library)](https://www.reformed.org.ua/)
+* [Абрахам Кайпер, Антиреволюционные учения о государстве (en, book)]()
 
 ## [Fiction (ru, index)](https://fantlab.ru)
 
