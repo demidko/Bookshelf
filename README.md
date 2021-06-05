@@ -8,7 +8,7 @@ Open Source Bookshelf
 
 ## [Austrian School](https://en.wikipedia.org/wiki/Austrian_School)
 
-* [Murray Rothbard (en, wiki)](https://en.wikipedia.org/wiki/Murray_Rothbard)
+* [Murray Rothbard (ru, library)](https://ru.bookmate.com/authors/Wn7HwnHg)
 * [David Friedman (en, library)](http://daviddfriedman.com)
     * [The Machinery Of Freedom (ru, pdf)](https://ancapchan.info/downloads/%D0%94%D1%8D%D0%B2%D0%B8%D0%B4%20%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%2C%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B.pdf)
     * [The Machinery Of Freedom (en, pdf)](https://ancapchan.info/downloads/Machinery%203rd%20Edn%20POD%2025.pdf)
@@ -16,7 +16,7 @@ Open Source Bookshelf
 
 ## [Reformed Church](https://en.wikipedia.org/wiki/Calvinism)
 
-* [Bible (RST)](https://bible.by/)
+* [Bible (rst)](https://bible.by/)
 * [Apostles' Creed (ru, wiki)](https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%B2%D0%B5%D1%80%D1%8B)
 * [Heidelberg Catechism (ru, doc)](https://www.reformed.org.ua/2/22/Caspar)
 * [Westminster Confession of Faith (ru, doc)](https://www.reformed.org.ua/2/108/)
@@ -27,10 +27,12 @@ Open Source Bookshelf
     * [De praedestinatione sanctorum (ru, pdf)](https://azbyka.ru/otechnik/books/download/8407-%D0%9E-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85.pdf)
 * [Vindiciae contra tyrannos | Восстание против тиранов (en, pdf)](http://www.yorku.ca/comninel/courses/3020pdf/vindiciae.pdf)
 * [De jure magistratum | О праве начальствующих (en, pdf)](http://www.onthewing.org/user/Beza%20-%20Rights%20of%20Magistrates.pdf)
+* [Henry Meeter - The Basic Ideas of Calvinism (ru, pdf)](http://www.presbiteryen.org/rus/6/%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%9D%D0%AB%D0%95_%D0%98%D0%94%D0%95%D0%98_%D0%9A%D0%90%D0%9B%D0%AC%D0%92%D0%98%D0%9D%D0%98%D0%97%D0%9C%D0%90.pdf)
 * [Oswald Chambers (en, wiki)](https://en.wikipedia.org/wiki/Oswald_Chambers)
 * [Reformed Church in Tver (ru, library)](https://www.reformtver.ru/)
 * [Reformed Church in Ukraine (ru, library)](https://www.reformed.org.ua/)
-* [Абрахам Кайпер, Антиреволюционные учения о государстве (en, book)]()
+* [Abraham_Kuyper](https://en.wikipedia.org/wiki/Abraham_Kuyper#Bibliography)
+    * [Христианское мирровозрение (ru, web)](https://www.reformed.org.ua/2/140/Kuyper)
 
 ## [Fiction (ru, index)](https://fantlab.ru)
 
