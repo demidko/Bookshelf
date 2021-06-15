@@ -50,6 +50,7 @@ _Серветитуты - опциональные обременения пра
 * [August Derleth](https://fantlab.ru/autor487)  
 * [David Drake](https://fantlab.ru/autor80)
 * [Clark Ashton Smith](https://fantlab.ru/autor1051)  
+* [Andrew J. Offutt](https://fantlab.ru/autor488)  
 *
 * [Fletcher Pratt](https://fantlab.ru/autor327)
 * [Edmond Hamilton](https://fantlab.ru/autor417)
