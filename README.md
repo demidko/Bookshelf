@@ -13,8 +13,9 @@ Open Source Bookshelf
     * [The Machinery Of Freedom (ru, pdf)](https://ancapchan.info/downloads/%D0%94%D1%8D%D0%B2%D0%B8%D0%B4%20%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%2C%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%20%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B.pdf)
     * [The Machinery Of Freedom (en, pdf)](https://ancapchan.info/downloads/Machinery%203rd%20Edn%20POD%2025.pdf)
 * [Ancapchan (ru, library)](https://ancapchan.info)
-* Серветитуты - обременения права собственности достающиеся вместе с ней  
-  Пример: право прохода, цестива
+
+_Серветитуты - обременения права собственности достающиеся вместе с ней  
+Пример: право прохода_
 
 ## [Reformed Church](https://en.wikipedia.org/wiki/Calvinism)
 
@@ -27,8 +28,8 @@ Open Source Bookshelf
 * [Aurelius Augustinus (ru, library)](https://azbyka.ru/otechnik/Avrelij_Avgustin/)
     * [De Civitate Dei (ru, pdf)](https://azbyka.ru/otechnik/books/download/8404-%D0%9E-%D0%B3%D1%80%D0%B0%D0%B4%D0%B5-%D0%91%D0%BE%D0%B6%D1%8C%D0%B5%D0%BC.pdf)
     * [De praedestinatione sanctorum (ru, pdf)](https://azbyka.ru/otechnik/books/download/8407-%D0%9E-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85.pdf)
-* [Vindiciae contra tyrannos | Восстание против тиранов (en, pdf)](http://www.yorku.ca/comninel/courses/3020pdf/vindiciae.pdf)
-* [De jure magistratum | О праве начальствующих (en, pdf)](http://www.onthewing.org/user/Beza%20-%20Rights%20of%20Magistrates.pdf)
+* [Vindiciae contra tyrannos (en, pdf)](http://www.yorku.ca/comninel/courses/3020pdf/vindiciae.pdf)
+* [Theodore Beza - De jure magistratum (en, pdf)](http://www.onthewing.org/user/Beza%20-%20Rights%20of%20Magistrates.pdf)
 * [Henry Meeter - The Basic Ideas of Calvinism (ru, offline)](https://www.ozon.ru/context/detail/id/1509866/)
 * [Oswald Chambers (en, wiki)](https://en.wikipedia.org/wiki/Oswald_Chambers)
 * [Reformed Church in Tver (ru, library)](https://www.reformtver.ru/)
@@ -39,14 +40,16 @@ Open Source Bookshelf
 ## [Fiction (ru, index)](https://fantlab.ru)
 
 * [Журнал «Если»](https://fantlab.ru/work86383)
-* [Fletcher Pratt](https://fantlab.ru/autor327)
-* [Lord Dunsany](https://fantlab.ru/autor973)
+
 * [Abraham Merritt](https://fantlab.ru/autor84)
-* [Edmond Hamilton](https://fantlab.ru/autor417)
-* [Poul Anderson](https://fantlab.ru/autor28)
 * [L. Sprague de Camp](https://fantlab.ru/autor24)
 * [Lin Carter](https://fantlab.ru/autor86)
 * [Robert E. Howard](https://fantlab.ru/autor59)
+* [Richard L. Tierney](https://en.wikipedia.org/wiki/Richard_L._Tierney)
+
+* [Fletcher Pratt](https://fantlab.ru/autor327)
+* [Edmond Hamilton](https://fantlab.ru/autor417)
+* [Poul Anderson](https://fantlab.ru/autor28)
 * [Jack Vance](https://fantlab.ru/autor323)
 * [Andre Norton](https://fantlab.ru/autor127)
 * [Lester del Rey](https://fantlab.ru/autor529)
@@ -66,4 +69,5 @@ Open Source Bookshelf
 * [Clifford D. Simak](https://fantlab.ru/autor5)
 * [Harry Harrison](https://fantlab.ru/autor13)
 * [Aldous Huxley](https://fantlab.ru/autor101)
+* [Lord Dunsany](https://fantlab.ru/autor973)
 
