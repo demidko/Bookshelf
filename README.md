@@ -46,10 +46,10 @@ _Серветитуты - опциональные обременения пра
 * [Lin Carter](https://fantlab.ru/autor86)
 * [Robert E. Howard](https://fantlab.ru/autor59)
 * [Richard L. Tierney](https://en.wikipedia.org/wiki/Richard_L._Tierney)
-*
 * [H. P. Lovecraft](https://fantlab.ru/autor82)
 * [August Derleth](https://fantlab.ru/autor487)  
-* [David Drake](https://fantlab.ru/autor80)  
+* [David Drake](https://fantlab.ru/autor80)
+* [Clark Ashton Smith](https://fantlab.ru/autor1051)  
 *
 * [Fletcher Pratt](https://fantlab.ru/autor327)
 * [Edmond Hamilton](https://fantlab.ru/autor417)
