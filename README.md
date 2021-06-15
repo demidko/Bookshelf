@@ -14,7 +14,7 @@ Open Source Bookshelf
     * [The Machinery Of Freedom (en, pdf)](https://ancapchan.info/downloads/Machinery%203rd%20Edn%20POD%2025.pdf)
 * [Ancapchan (ru, library)](https://ancapchan.info)
 
-_Серветитуты - обременения права собственности достающиеся вместе с ней  
+_Серветитуты - опциональные обременения права собственности достающиеся вместе с ней  
 Пример: право прохода_
 
 ## [Reformed Church](https://en.wikipedia.org/wiki/Calvinism)
@@ -46,6 +46,10 @@ _Серветитуты - обременения права собственно
 * [Lin Carter](https://fantlab.ru/autor86)
 * [Robert E. Howard](https://fantlab.ru/autor59)
 * [Richard L. Tierney](https://en.wikipedia.org/wiki/Richard_L._Tierney)
+*
+* [H. P. Lovecraft](https://fantlab.ru/autor82)
+* [August Derleth](https://fantlab.ru/autor487)  
+* [David Drake](https://fantlab.ru/autor80)  
 *
 * [Fletcher Pratt](https://fantlab.ru/autor327)
 * [Edmond Hamilton](https://fantlab.ru/autor417)
