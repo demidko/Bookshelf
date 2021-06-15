@@ -34,18 +34,20 @@ _Серветитуты - обременения права собственно
 * [Oswald Chambers (en, wiki)](https://en.wikipedia.org/wiki/Oswald_Chambers)
 * [Reformed Church in Tver (ru, library)](https://www.reformtver.ru/)
 * [Reformed Church in Ukraine (ru, library)](https://www.reformed.org.ua/)
-* [Abraham_Kuyper](https://en.wikipedia.org/wiki/Abraham_Kuyper#Bibliography)
+* [Abraham Kuyper](https://en.wikipedia.org/wiki/Abraham_Kuyper#Bibliography)
     * [Христианское мирровозрение (ru, online)](https://www.reformed.org.ua/2/140/Kuyper)
 
 ## [Fiction (ru, index)](https://fantlab.ru)
 
 * [Журнал «Если»](https://fantlab.ru/work86383)
+  
 
 * [Abraham Merritt](https://fantlab.ru/autor84)
 * [L. Sprague de Camp](https://fantlab.ru/autor24)
 * [Lin Carter](https://fantlab.ru/autor86)
 * [Robert E. Howard](https://fantlab.ru/autor59)
 * [Richard L. Tierney](https://en.wikipedia.org/wiki/Richard_L._Tierney)
+  
 
 * [Fletcher Pratt](https://fantlab.ru/autor327)
 * [Edmond Hamilton](https://fantlab.ru/autor417)
